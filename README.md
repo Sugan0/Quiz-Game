@@ -1,4 +1,4 @@
 # Quiz-Game-Mini-Project-in-C
-c demo projec
+c demo project
 
-Why am I here? 
+
